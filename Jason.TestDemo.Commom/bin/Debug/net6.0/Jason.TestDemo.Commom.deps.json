@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Jason.TestDemo.Commom/1.0.0": {
+        "dependencies": {
+          "Jason.TestDemo.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Jason.TestDemo.Commom.dll": {}
+        }
+      },
+      "Jason.TestDemo.Domain/1.0.0": {
+        "runtime": {
+          "Jason.TestDemo.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Jason.TestDemo.Commom/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Jason.TestDemo.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

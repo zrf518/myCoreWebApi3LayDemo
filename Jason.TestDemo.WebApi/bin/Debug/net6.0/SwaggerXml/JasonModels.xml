@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Jason.TestDemo.Domain</name>
+    </assembly>
+    <members>
+        <member name="T:Jason.TestDemo.Domain.PersonInfoDto">
+            <summary>
+            测试用户
+            </summary>
+        </member>
+        <member name="P:Jason.TestDemo.Domain.PersonInfoDto.id">
+            <summary>
+            人员ID
+            </summary>
+        </member>
+        <member name="P:Jason.TestDemo.Domain.PersonInfoDto.PersonName">
+            <summary>
+            人员名称
+            </summary>
+        </member>
+        <member name="P:Jason.TestDemo.Domain.PersonInfoDto.BirthDay">
+            <summary>
+            生日
+            </summary>
+        </member>
+    </members>
+</doc>

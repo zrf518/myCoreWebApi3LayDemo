@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <GenerateDocumentationFile>True</GenerateDocumentationFile>
+    <DocumentationFile>../Jason.TestDemo.WebApi/SwaggerXml/JasonContracts.xml</DocumentationFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Jason.TestDemo.Commom\Jason.TestDemo.Commom.csproj" />
+    <ProjectReference Include="..\Jason.TestDemo.Domain\Jason.TestDemo.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

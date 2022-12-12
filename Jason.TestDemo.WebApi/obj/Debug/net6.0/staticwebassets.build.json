@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "K9SqLaLDWfnbWQvINxWiA8NYDc0BR8GryumCPwmtlqM=",
+  "Source": "Jason.TestDemo.WebApi",
+  "BasePath": "_content/Jason.TestDemo.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

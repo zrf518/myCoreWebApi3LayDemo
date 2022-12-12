@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Jason.TestDemo.Contracts</name>
+    </assembly>
+    <members>
+        <member name="T:Jason.TestDemo.Contracts.ITest001Interface">
+            <summary>
+            测试服务接口
+            </summary>
+        </member>
+        <member name="M:Jason.TestDemo.Contracts.ITest001Interface.Dotest001">
+            <summary>
+            测试函数
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

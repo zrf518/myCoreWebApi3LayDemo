@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Jason.TestDemo.WebApi</name>
+    </assembly>
+    <members>
+        <member name="M:Jason.TestDemo.WebApi.Controllers.TestController.DoTest">
+            <summary>
+            测试接口001
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

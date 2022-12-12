@@ -1,0 +1,13 @@
+D:\_Myfiles\_Code\_net6Demos\TestNet6Demo\Jason.TestDemo.Domain\bin\Debug\net6.0\Jason.TestDemo.Domain.deps.json
+D:\_Myfiles\_Code\_net6Demos\TestNet6Demo\Jason.TestDemo.Domain\bin\Debug\net6.0\Jason.TestDemo.Domain.dll
+D:\_Myfiles\_Code\_net6Demos\TestNet6Demo\Jason.TestDemo.Domain\bin\Debug\net6.0\Jason.TestDemo.Domain.pdb
+D:\_Myfiles\_Code\_net6Demos\TestNet6Demo\Jason.TestDemo.Domain\obj\Debug\net6.0\Jason.TestDemo.Domain.csproj.AssemblyReference.cache
+D:\_Myfiles\_Code\_net6Demos\TestNet6Demo\Jason.TestDemo.Domain\obj\Debug\net6.0\Jason.TestDemo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\_Myfiles\_Code\_net6Demos\TestNet6Demo\Jason.TestDemo.Domain\obj\Debug\net6.0\Jason.TestDemo.Domain.AssemblyInfoInputs.cache
+D:\_Myfiles\_Code\_net6Demos\TestNet6Demo\Jason.TestDemo.Domain\obj\Debug\net6.0\Jason.TestDemo.Domain.AssemblyInfo.cs
+D:\_Myfiles\_Code\_net6Demos\TestNet6Demo\Jason.TestDemo.Domain\obj\Debug\net6.0\Jason.TestDemo.Domain.csproj.CoreCompileInputs.cache
+D:\_Myfiles\_Code\_net6Demos\TestNet6Demo\Jason.TestDemo.Domain\obj\Debug\net6.0\Jason.TestDemo.Domain.dll
+D:\_Myfiles\_Code\_net6Demos\TestNet6Demo\Jason.TestDemo.Domain\obj\Debug\net6.0\refint\Jason.TestDemo.Domain.dll
+D:\_Myfiles\_Code\_net6Demos\TestNet6Demo\Jason.TestDemo.Domain\obj\Debug\net6.0\Jason.TestDemo.Domain.pdb
+D:\_Myfiles\_Code\_net6Demos\TestNet6Demo\Jason.TestDemo.Domain\obj\Debug\net6.0\ref\Jason.TestDemo.Domain.dll
+D:\_Myfiles\_Code\_net6Demos\TestNet6Demo\Jason.TestDemo.Domain\bin\Debug\net6.0\JasonModels.xml
