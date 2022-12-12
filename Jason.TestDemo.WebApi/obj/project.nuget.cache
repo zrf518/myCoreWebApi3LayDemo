@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7lZe2hlkCaHVQjAZz0K3GVP2ns8GvUb/hSz6oaAwqKgvDTjmqcyqHFVIVSaBZI5tQo3YX3BeEKM6Zzj+uqzhDw==",
+  "dgSpecHash": "sV5SSSCjiTMXyYATNuMBHI63+Yo6YWEgkTJ3buFGzj7wAVNzrVwGvex8hLxAlBgGwkmw0OwIqdPL5kpW2y1sHA==",
   "success": true,
-  "projectFilePath": "D:\\_Myfiles\\_Code\\_net6Demos\\TestNet6Demo\\Jason.TestDemo.WebApi\\Jason.TestDemo.WebApi.csproj",
+  "projectFilePath": "D:\\_Myfiles\\_Code\\_net6Demos\\TestNet6Demo\\myCoreWebApi3LayDemo\\myCoreWebApi3LayDemo\\Jason.TestDemo.WebApi\\Jason.TestDemo.WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrator\\.nuget\\packages\\autofac\\6.4.0\\autofac.6.4.0.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\autofac.extensions.dependencyinjection\\8.0.0\\autofac.extensions.dependencyinjection.8.0.0.nupkg.sha512",

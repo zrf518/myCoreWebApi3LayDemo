@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bulU7EJrqjBMnjAFLnBYWn+J7dENt7bqA0LYQdUDsbF9KtJfEwyTRhb/F6yC8OJMJYJ3//oQe2stQe9/zu2Vcg==",
+  "dgSpecHash": "oAuHTd52/cgIgaoaA1cNHIxcIoJZoDWZKSHSAlUn+1cuXrUABjaxo7wpCWavG566UpSVBbiEdHbX44r8fuCX3g==",
   "success": true,
-  "projectFilePath": "D:\\_Myfiles\\_Code\\_net6Demos\\TestNet6Demo\\Jason.TestDemo.Domain\\Jason.TestDemo.Domain.csproj",
+  "projectFilePath": "D:\\_Myfiles\\_Code\\_net6Demos\\TestNet6Demo\\myCoreWebApi3LayDemo\\myCoreWebApi3LayDemo\\Jason.TestDemo.Domain\\Jason.TestDemo.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -71,11 +71,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\_Myfiles\\_Code\\_net6Demos\\TestNet6Demo\\Jason.TestDemo.Application\\Jason.TestDemo.Application.csproj",
+      "projectUniqueName": "D:\\_Myfiles\\_Code\\_net6Demos\\TestNet6Demo\\myCoreWebApi3LayDemo\\myCoreWebApi3LayDemo\\Jason.TestDemo.Application\\Jason.TestDemo.Application.csproj",
       "projectName": "Jason.TestDemo.Application",
-      "projectPath": "D:\\_Myfiles\\_Code\\_net6Demos\\TestNet6Demo\\Jason.TestDemo.Application\\Jason.TestDemo.Application.csproj",
+      "projectPath": "D:\\_Myfiles\\_Code\\_net6Demos\\TestNet6Demo\\myCoreWebApi3LayDemo\\myCoreWebApi3LayDemo\\Jason.TestDemo.Application\\Jason.TestDemo.Application.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "D:\\_Myfiles\\_Code\\_net6Demos\\TestNet6Demo\\Jason.TestDemo.Application\\obj\\",
+      "outputPath": "D:\\_Myfiles\\_Code\\_net6Demos\\TestNet6Demo\\myCoreWebApi3LayDemo\\myCoreWebApi3LayDemo\\Jason.TestDemo.Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -92,14 +92,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\_Myfiles\\_Code\\_net6Demos\\TestNet6Demo\\Jason.TestDemo.Commom\\Jason.TestDemo.Commom.csproj": {
-              "projectPath": "D:\\_Myfiles\\_Code\\_net6Demos\\TestNet6Demo\\Jason.TestDemo.Commom\\Jason.TestDemo.Commom.csproj"
+            "D:\\_Myfiles\\_Code\\_net6Demos\\TestNet6Demo\\myCoreWebApi3LayDemo\\myCoreWebApi3LayDemo\\Jason.TestDemo.Commom\\Jason.TestDemo.Commom.csproj": {
+              "projectPath": "D:\\_Myfiles\\_Code\\_net6Demos\\TestNet6Demo\\myCoreWebApi3LayDemo\\myCoreWebApi3LayDemo\\Jason.TestDemo.Commom\\Jason.TestDemo.Commom.csproj"
             },
-            "D:\\_Myfiles\\_Code\\_net6Demos\\TestNet6Demo\\Jason.TestDemo.Contracts\\Jason.TestDemo.Contracts.csproj": {
-              "projectPath": "D:\\_Myfiles\\_Code\\_net6Demos\\TestNet6Demo\\Jason.TestDemo.Contracts\\Jason.TestDemo.Contracts.csproj"
+            "D:\\_Myfiles\\_Code\\_net6Demos\\TestNet6Demo\\myCoreWebApi3LayDemo\\myCoreWebApi3LayDemo\\Jason.TestDemo.Contracts\\Jason.TestDemo.Contracts.csproj": {
+              "projectPath": "D:\\_Myfiles\\_Code\\_net6Demos\\TestNet6Demo\\myCoreWebApi3LayDemo\\myCoreWebApi3LayDemo\\Jason.TestDemo.Contracts\\Jason.TestDemo.Contracts.csproj"
             },
-            "D:\\_Myfiles\\_Code\\_net6Demos\\TestNet6Demo\\Jason.TestDemo.Domain\\Jason.TestDemo.Domain.csproj": {
-              "projectPath": "D:\\_Myfiles\\_Code\\_net6Demos\\TestNet6Demo\\Jason.TestDemo.Domain\\Jason.TestDemo.Domain.csproj"
+            "D:\\_Myfiles\\_Code\\_net6Demos\\TestNet6Demo\\myCoreWebApi3LayDemo\\myCoreWebApi3LayDemo\\Jason.TestDemo.Domain\\Jason.TestDemo.Domain.csproj": {
+              "projectPath": "D:\\_Myfiles\\_Code\\_net6Demos\\TestNet6Demo\\myCoreWebApi3LayDemo\\myCoreWebApi3LayDemo\\Jason.TestDemo.Domain\\Jason.TestDemo.Domain.csproj"
             }
           }
         }
